@@ -1,0 +1,10 @@
+[ React.js UI ]
+      |
+      v
+[ API Gateway ]
+   /        \
+[Spring Boot] [Node.js]
+     |            |
+ [PostgreSQL]  [MongoDB]
+
+[Docker] → [Kubernetes]
